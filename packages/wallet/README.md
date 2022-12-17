@@ -1,3 +1,6 @@
+# NOTE
+THIS HAS BEEN MOVED TO https://github.com/LIT-Protocol/pkp-ethers
+
 # PKP Wallet Signer
 
 ## Install
